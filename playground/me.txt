@@ -1,5 +1,0 @@
-{{#user}}
-Name: Nagarajan A
-Skills: AWS & Devops, python
-Email: nagaraj1201@gmail.com
-{{/user}}
